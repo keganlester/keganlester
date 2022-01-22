@@ -1,7 +1,10 @@
 <template>
     <a href="#">
         <span class="sr-only">Home</span>
-        <img class="h-8 w-auto sm:h-10" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="">
+        <div class="text-lg text-gray-700 font-bold">
+            <span class="mr-2">Kegan</span>
+            <span class="text-indigo-600">Lester</span>
+        </div>
     </a>
 </template>
 
