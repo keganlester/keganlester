@@ -13,7 +13,7 @@
     <!-- Styles -->
 
 </head>
-<body class="antialiased">
+<body class="antialiased bg-gray-100 bg-no-repeat">
 <div id="app">
     <kl-app></kl-app>
 </div>
